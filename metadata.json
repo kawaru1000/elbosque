@@ -1,0 +1,5 @@
+{
+  "name": "RESERVAS ONLINE",
+  "description": "An online booking application to schedule services with available staff members. Users can select a professional, a service, and an available time slot to make a reservation.",
+  "requestFramePermissions": []
+}
